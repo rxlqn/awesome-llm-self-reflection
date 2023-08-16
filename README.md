@@ -34,3 +34,11 @@ arxiv, 2023. [[Paper]](https://arxiv.org/abs/2308.00436)
 * **ReAct: Synergizing Reasoning and Acting in Language Models** <br>
 *Yao, Shunyu and Zhao, Jeffrey and Yu, Dian and Du, Nan and Shafran, Izhak and Narasimhan, Karthik and Cao, Yuan* <br>
 arxiv, 2022. [[Paper]](https://arxiv.org/abs/2210.03629)
+
+* **Self-Verification Improves Few-Shot Clinical Information Extraction** <br>
+*Gero, Zelalem and Singh, Chandan and Cheng, Hao and Naumann, Tristan and Galley, Michel and Gao, Jianfeng and Poon, Hoifung* <br>
+arxiv, 2023. [[Paper]](https://arxiv.org/pdf/2306.00024)
+
+* **Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification** <br>
+*Aojun Zhou, Ke Wang, Zimu Lu, Weikang Shi, Sichun Luo, Zipeng Qin, Shaoqing Lu, Anya Jia, Linqi Song, Mingjie Zhan, Hongsheng Li* <br>
+arxiv, 2023. [[Paper]](https://arxiv.org/abs/2308.07921)
