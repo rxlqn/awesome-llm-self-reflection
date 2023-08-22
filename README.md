@@ -42,3 +42,13 @@ arxiv, 2023. [[Paper]](https://arxiv.org/pdf/2306.00024)
 * **Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification** <br>
 *Aojun Zhou, Ke Wang, Zimu Lu, Weikang Shi, Sichun Luo, Zipeng Qin, Shaoqing Lu, Anya Jia, Linqi Song, Mingjie Zhan, Hongsheng Li* <br>
 arxiv, 2023. [[Paper]](https://arxiv.org/abs/2308.07921)
+
+* **Shepherd: A Critic for Language Model Generation** <br>
+*Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz* <br>
+arxiv, 2023. [[Paper]](https://arxiv.org/abs/2308.04592)
+
+* **Reinforced Self-Training (ReST) for Language Modeling** <br>
+*Caglar Gulcehre, Tom Le Paine, Srivatsan Srinivasan, Ksenia Konyushkova, Lotte Weerts, Abhishek Sharma, Aditya Siddhant, Alex Ahern, Miaosen Wang, Chenjie Gu, Wolfgang Macherey, Arnaud Doucet, Orhan Firat, Nando de Freitas* <br>
+arxiv, 2023. [[Paper]](https://arxiv.org/abs/2308.08998)
+
+
