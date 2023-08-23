@@ -11,6 +11,10 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 ```
 
 ## <a name="papers"></a> Papers
+* **Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies** <br>
+*Liangming Pan, Michael Saxon, Wenda Xu, Deepak Nathani, Xinyi Wang, William Yang Wang* <br>
+arxiv, 2023. [[Paper]](https://arxiv.org/abs/2308.03188)
+
 * **Reflexion: Language Agents with Verbal Reinforcement Learning** <br>
 *Shinn, Noah and Cassano, Federico and Labash, Beck and Gopinath, Ashwin and Narasimhan, Karthik and Yao, Shunyu* <br>
 arxiv, 2023. [[Paper]](https://arxiv.org/abs/2303.11366)
