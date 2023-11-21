@@ -55,4 +55,18 @@ arxiv, 2023. [[Paper]](https://arxiv.org/abs/2308.04592)
 *Caglar Gulcehre, Tom Le Paine, Srivatsan Srinivasan, Ksenia Konyushkova, Lotte Weerts, Abhishek Sharma, Aditya Siddhant, Alex Ahern, Miaosen Wang, Chenjie Gu, Wolfgang Macherey, Arnaud Doucet, Orhan Firat, Nando de Freitas* <br>
 arxiv, 2023. [[Paper]](https://arxiv.org/abs/2308.08998)
 
+* **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection** <br>
+*Asai, Akari and Wu, Zeqiu and Wang, Yizhong and Sil, Avirup and Hajishirzi, Hannaneh* <br>
+arxiv, 2023. [[Paper]](http://arxiv.org/abs/2310.11511v1)
 
+* **RRAML: Reinforced Retrieval Augmented Machine Learning** <br>
+*Bacciu, Andrea and Cocunasu, Florin and Siciliano, Federico and Silvestri, Fabrizio and Tonellotto, Nicola and Trappolini, Giovanni* <br>
+arxiv, 2023. [[Paper]](http://arxiv.org/abs/2307.12798v3)
+
+* **Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution** <br>
+*Fernando, Chrisantha and Banarse, Dylan and Michalewski, Henryk and Osindero, Simon and Rockt\“aschel, Tim* <br>
+arxiv, 2023. [[Paper]](http://arxiv.org/abs/2309.16797v1)
+
+* **Large Language Models Cannot Self-Correct Reasoning Yet** <br>
+*Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou* <br>
+arxiv, 2023. [[Paper]](https://arxiv.org/abs/2310.01798)
