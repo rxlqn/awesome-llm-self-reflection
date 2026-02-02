@@ -70,3 +70,8 @@ arxiv, 2023. [[Paper]](http://arxiv.org/abs/2309.16797v1)
 * **Large Language Models Cannot Self-Correct Reasoning Yet** <br>
 *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou* <br>
 arxiv, 2023. [[Paper]](https://arxiv.org/abs/2310.01798)
+
+* **Bounded Systems Theory: 6 LLMs Examine Their Structural Limits** <br>
+*Alan Berman* <br>
+Zenodo, 2026. [[Paper]](https://zenodo.org/records/17718674) [[Code]](https://github.com/moketchups/BoundedSystemsTheory) <br>
+33-round empirical study of self-reflection limits across GPT-4, Claude, Gemini, DeepSeek, Grok, and Mistral. All 6 converged: "No system can model its own source." Includes attack/debunk cycles (Q17) demonstrating self-correction failures predicted by the paper "LLMs Cannot Self-Correct Reasoning Yet."
