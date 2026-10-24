@@ -70,3 +70,7 @@ arxiv, 2023. [[Paper]](http://arxiv.org/abs/2309.16797v1)
 * **Large Language Models Cannot Self-Correct Reasoning Yet** <br>
 *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou* <br>
 arxiv, 2023. [[Paper]](https://arxiv.org/abs/2310.01798)
+
+* **Translate-and-Revise: Boosting Large Language Models for Constrained Translation** <br>
+*Pengcheng Huang, Yongyu Mu, Yuzhang Wu, Bei Li, Chunyang Xiao, Tong Xiao, Jingbo Zhu* <br>
+CCL, 2024. [[Paper]](https://aclanthology.org/2024.ccl-1.82/) [[Website]](https://passionate11.github.io/Translate-and-Revise-project-page/)
